@@ -156,7 +156,9 @@ MonoBehaviour:
   height: 50
   scale: 10
   heightScale: 10
-  blockPrefab: {fileID: 8717491855907696780, guid: 09801972d9e3d4c1992027d082c20e6f, type: 3}
+  bottomBlockPrefab: {fileID: 4709449592717271220, guid: 1ef628ea261634d2983e48992cce1449, type: 3}
+  midBlockPrefab: {fileID: 4398800559553084370, guid: 8a092a63654ff4f8b9ff4d9935de28f2, type: 3}
+  topBlockPrefab: {fileID: 3987086195818103296, guid: 328706f7c5ed04df1bfb752259172641, type: 3}
 --- !u!4 &62617794
 Transform:
   m_ObjectHideFlags: 0
@@ -321,5 +323,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 7728386957808810317, guid: ffd08ff98deea453385e27f593a9e93d, type: 3}
+      propertyPath: blockPrefab
+      value: 
+      objectReference: {fileID: 4709449592717271220, guid: 1ef628ea261634d2983e48992cce1449, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ffd08ff98deea453385e27f593a9e93d, type: 3}
