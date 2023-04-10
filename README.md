@@ -1,1 +1,1 @@
-![Alt text]("Images/https://raw.githubusercontent.com/EvgenL/MinecraftGpt/master/Images/Screenshot_2023-04-10_at_14.05.12.png")
+![Alt text](Images/Screenshot_2023-04-10_at_14.05.12.png)
